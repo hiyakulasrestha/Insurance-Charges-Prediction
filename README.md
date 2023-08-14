@@ -1,2 +1,3 @@
-# Insurance-Charges-Prediction
-INSURANCE CHARGES PREDICTION - Linear Regression Model
+# INSURANCE CHARGES PREDICTION - Linear Regression Model
+
+
